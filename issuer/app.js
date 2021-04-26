@@ -33,8 +33,8 @@ var crypto = new CryptoBuilder()
     .build();
 
 /////////// Set the expected values for the Verifiable Credential
-const credential = 'https://beta.did.msidentity.com/v1.0/3c32ed40-8a10-465b-8ba4-0b1e86882668/verifiableCredential/contracts/VerifiedCredentialExpert';
-const credentialType = ['VerifiedCredentialExpert'];
+const credential = 'https://beta.did.msidentity.com/v1.0/c2c1d092-cf24-4636-a284-203c93601579/verifiableCredential/contracts/VaccinePassport';
+const credentialType = ['VaccinePassport'];
 
 //////////// Main Express server function
 // Note: You'll want to update port values for your setup.
