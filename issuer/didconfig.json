@@ -1,7 +1,7 @@
 {
     "azTenantId": "c2c1d092-cf24-4636-a284-203c93601579",
     "azClientId": "165f90f0-b74f-45ad-b2eb-5595cc28ca05",
-    "azClientSecret": "165f90f0-b74f-45ad-b2eb-5595cc28ca05",
+    "azClientSecret": "6iUL-dSdZbEt-2Y-BrJ72R8y6_RRt_8fNm",
     "kvVaultUri": "https://kv-vaccine.vault.azure.net/",
     "kvSigningKeyId": "sig_24bb3074",
     "kvRemoteSigningKeyId" : "issuerSigningKeyIon-397046ed-6592-4627-94c2-abd563e37fc4/61d53e334a7e43d5b07a8595d30eef4a",
